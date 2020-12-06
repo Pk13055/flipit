@@ -6,6 +6,7 @@ FlipIt has a very simple semantic language. However, it is extensive enough to
 combine images into very intricate storylines, provided you have a diverse set
 of images and some creativity.
 
+![demo-video](data/sample/demo.gif)
 
 ## Language
 
