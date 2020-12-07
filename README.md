@@ -50,7 +50,10 @@ optional arguments:
 
 ### Containerized
 
-**TODO**
+```bash
+docker build -t pk13055/flipit .
+docker run -v $PWD/data/sample/:/usr/src/app/data/sample/ pk13055/flipit -i ./data/sample/newton.flip -o ./data/sample/newton.avi
+```
 
 ### Normal
 
